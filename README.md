@@ -44,7 +44,7 @@ Zlinkhub menjadi ruang untuk bereksperimen, membangun sistem, dan berbagi inovas
 
 ### 📫 Hubungi Kami
 📍 Website: [zeuzi.carrd.co](https://zeuzi.carrd.co)  
-💬 Email: _(tambahkan jika kamu ingin)_  
+💬 Email: _(zeuzi.official@gmail.com)_  
 🤝 Terbuka untuk kolaborasi dan proyek baru!
 
 ---
