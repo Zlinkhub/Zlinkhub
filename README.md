@@ -5,7 +5,7 @@
 <h1 align="center">🌐 Zlinkhub</h1>
 <p align="center">
   <strong>Tempat ide terhubung dan teknologi bekerja tanpa batas.</strong><br/>
-  Mendorong inovasi dari Azayaka Laundry hingga solusi digital lainnya.
+  Mendorong inovasi hingga solusi digital lainnya agar pekerjaan menjadi lebih mudah.
 </p>
 
 ---
